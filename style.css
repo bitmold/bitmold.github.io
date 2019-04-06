@@ -75,15 +75,18 @@ body {
 	text-align: center;
 }
 
-.red-header {
-	font-size: 12px;
-	color: #892101;
-}
-
-.fb-video {
-	margin: 0 auto;
-}
-
 #about {
 	font-size: 12px;
+}
+
+#mofos li img{
+	cursor: pointer;
+}
+
+#mofos li figcaption {
+	cursor: pointer;
+}
+
+#mofos li figcaption:hover {
+	text-decoration: underline;
 }
