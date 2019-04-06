@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-	/*width: 960px;*/
+	width: 960px;
 }
 
 #logo {
@@ -24,18 +24,11 @@ body {
 	
 }
 
-.bio-caption {
-	width: 70px;
-	font-size: 10px;
-	text-align: center;
-
-}
-
 #container-enemy {
 	background-image: url(/images/panel-bg-bl.png);
 	background-repeat: repeat-x;
 	text-align: center;
-	font-size: 10px;
+	font-size: 12px;
 	color: #16416f;
 	font-weight: bold;
 }
@@ -44,7 +37,7 @@ body {
     padding-left: 0;
     list-style: none;
 }
-    
+
 .list-inline {
     padding-left: 0;
     margin-left: -5px;
@@ -85,4 +78,12 @@ body {
 .red-header {
 	font-size: 12px;
 	color: #892101;
+}
+
+.fb-video {
+	margin: 0 auto;
+}
+
+#about {
+	font-size: 12px;
 }
