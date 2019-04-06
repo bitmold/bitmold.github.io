@@ -1,3 +1,56 @@
-.header {
+
+body {
 	background-color: #EBEBEB;
+}
+
+.navbar {
+	height: 24px;
+	background-color: #16416e;
+}
+
+.nav-item {
+	color: white;
+}
+
+.container {
+	width: 960px;
+}
+
+#logo {
+	width: 960px;
+}
+
+.header {
+	
+}
+
+.footer {
+	height: 200px;
+	border-top: 2px solid #999;
+	padding: 5px 20px 15px 20px;
+}
+
+.header-bar {
+	height: 24px;
+	background-color: #16416e;
+}
+
+#social-container {
+	margin-top: 20px;
+}
+#social-container img {
+	margin-left: 20px;
+}
+
+#main-container {
+}
+
+.bttm {
+	background-color: white;
+	text-align: center;
+}
+
+.red-header {
+	font-size: 12px;
+	color: #892101;
 }
