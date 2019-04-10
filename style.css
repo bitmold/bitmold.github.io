@@ -96,3 +96,7 @@ body {
 #row-tabs {
 	margin-top: 16px;
 }
+
+.tab-content {
+	margin-top: 4px;
+}
