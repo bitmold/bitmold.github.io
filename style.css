@@ -20,13 +20,10 @@ body {
 	width: 960px;
 }
 
-.header {
-	
-}
 
 #container-enemy {
-	background-image: url(/images/panel-bg-bl.png);
-	background-repeat: repeat-x;
+	/*background-image: url(/images/panel-bg-bl.png);
+	background-repeat: repeat-x;*/
 	text-align: center;
 	font-size: 12px;
 	color: #16416f;
@@ -39,11 +36,6 @@ body {
 	width: 100%;
 	text-align: center;
 	margin-bottom: 24px;
-}
-
-#fb-wrapper .fb-video {
-	display: inline-block;
-	width: 100%;
 }
 
 .list-unstyled {
@@ -80,7 +72,6 @@ body {
 	margin-left: 20px;
 }
 
-
 .bttm {
 	margin-top: 24px;
 	text-align: center;
@@ -100,4 +91,8 @@ body {
 
 #mofos li figcaption:hover {
 	text-decoration: underline;
+}
+
+#row-tabs {
+	margin-top: 16px;
 }
