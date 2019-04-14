@@ -100,3 +100,7 @@ body {
 .tab-content {
 	margin-top: 4px;
 }
+
+.modal-body {
+	text-align: left !important;
+}
