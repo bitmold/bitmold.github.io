@@ -21,7 +21,7 @@ body {
 }
 
 
-#container-enemy {
+.container-enemy {
 	/*background-image: url(/images/panel-bg-bl.png);
 	background-repeat: repeat-x;*/
 	text-align: center;
