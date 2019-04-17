@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
   if (document.location.href.includes('frecnotferc.com')) {
-    document.body.innerHTML = 'Test';
+    // document.body.innerHTML = 'Test';
   }
 
   // tab switching functionality
