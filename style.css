@@ -3,6 +3,10 @@ body {
 	background-color: #EBEBEB;
 }
 
+#banner {
+	margin-bottom: 18px;
+}
+
 .navbar {
 	height: 24px;
 	background-color: #16416e;
