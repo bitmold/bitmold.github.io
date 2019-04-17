@@ -7,11 +7,17 @@ body {
 	margin-bottom: 18px;
 }
 
+.modal-dialog {
+}
+
 .navbar {
 	height: 24px;
 	background-color: #16416e;
 }
 
+#mailinglist {
+	margin-bottom: 12px;
+}
 .nav-item {
 	color: white;
 }
